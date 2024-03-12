@@ -1,0 +1,267 @@
+body {
+	color: #ffffff;
+	font-family: Arial;
+	width: 1600px;
+	height: 1600px;
+	background: url(../img/back1.jpg) no-repeat center top / cover;
+	
+}
+.hi_there_h{
+	position: absolute;
+        top: 55%;
+        left: 10%;
+        margin-right: -50%;
+	
+	font-size : 100px;
+}
+.hi_there_p{
+	position: absolute;
+        top: 70%;
+        left: 15%;
+        margin-right: -50%;
+        font-size : 30px;
+}
+header {
+	
+}
+footer{
+	background: url(../img/back2.jpg) no-repeat center top / cover;
+	
+}
+h3{
+	font-size : 30px;
+}
+.about_h{
+	position: absolute;
+        top: 95%;
+        left: 15%;
+        margin-right: -50%;
+}
+.why_us_h{
+	position: absolute;
+        top: 95%;
+        left: 40%;
+        margin-right: -50%;
+}
+.in_the_news_h{
+	position: absolute;
+        top: 95%;
+        left: 65%;
+        margin-right: -50%;
+}
+.bloomer_h {
+	font-size : 60px;
+	position: absolute;
+        top: 3%;
+        left: 5%;
+        margin-right: -50%;
+
+	
+}
+.about_p{
+	position: absolute;
+        top: 120%;
+        left: 11%;
+        margin-right: -50%;
+}
+.why_us_p{
+	position: absolute;
+        top: 103%;
+        left: 38%;
+        margin-right: -50%;
+}
+.why_us_ul{
+	position: absolute;
+        top: 113%;
+        left: 38%;
+        margin-right: -50%;
+}
+.in_the_news_p{
+	position: absolute;
+        top: 103%;
+        left: 65%;
+        margin-right: -50%;
+}
+.in_the_news_p11{
+	position: absolute;
+        top: 103%;
+        left: 65%;
+        margin-right: -50%;
+}
+.in_the_news_p12{
+	position: absolute;
+        top: 108%;
+        left: 65%;
+        margin-right: -50%;
+}
+.in_the_news_p21{
+	position: absolute;
+        top: 113%;
+        left: 65%;
+        margin-right: -50%;
+}
+.in_the_news_p22{
+	position: absolute;
+        top: 118%;
+        left: 65%;
+        margin-right: -50%;
+}
+.read_more_about_h{
+	position: absolute;
+        top: 132%;
+        left: 15%;
+        margin-right: -50%;
+}
+.read_more_why_us_h{
+	position: absolute;
+        top: 132%;
+        left: 40%;
+        margin-right: -50%;
+}
+.more_news_in_the_news_h{
+	position: absolute;
+        top: 132%;
+        left: 65%;
+        margin-right: -50%;
+}
+img{
+	position: absolute;
+        top: 105%;
+        left: 11%;
+        margin-right: -50%;
+}
+.bloomer_p{
+	position: absolute;
+        top: 12%;
+        left: 8%;
+        margin-right: -50%;
+}
+.User_area_p{
+	position: absolute;
+        top: 5%;
+        left: 90%;
+        margin-right: -50%;
+	
+}
+.container{
+	width: 1600px;
+	
+	
+}
+.fon{
+	width: 1500px;
+	height: 500px;
+	background: black;
+	position: absolute;
+        top: 90%;
+        left: 8%;
+        margin-right: -50%;
+}
+.why_us_ul{
+	display: block;
+	display: ;
+}
+nav {
+	float: left;
+	list-style: none;
+	background: #ff3131;
+	width: 1500px;
+	position: absolute;
+        top: 80%;
+        left: 8%;
+        margin-right: -50%;
+}
+nav a{
+	text-decoration: none;
+	display: block;
+	padding: 35px 65px;
+	color :#ffffff;
+}
+.menu{
+	display: flex;
+}
+
+#active a, #nav li:hover > a{
+
+    background:#b32424;
+
+}
+
+ 
+
+#nav ul {
+
+    visibility:hidden; 
+
+    padding:0; 
+
+    
+
+}
+
+.design_p {
+	
+	position: absolute;
+        top: 38%;
+        left: 70%;
+        margin-right: -50%;
+	
+}
+.ideas_p {
+	
+	position: absolute;
+        top: 10%;
+        left: 30%;
+        margin-right: -50%;
+        
+	
+	
+	
+}
+.usability_p {
+
+	position: absolute;
+        top: 20%;
+        left: 50%;
+        margin-right: -50%;
+	
+}
+.development_p {
+	position: absolute;
+        top: 40%;
+        left: 10%;
+        margin-right: -50%;
+	}
+p{
+	font-size: 15px;
+}
+h4{
+	font-size: 50px;
+}
+.design_h {
+	
+	position: absolute;
+        top: 40%;
+        left: 10%;
+        margin-right: -50%;
+	
+}
+.ideas_h {
+	position: absolute;
+        top: 12%;
+        left: 30%;
+        margin-right: -50%;
+	 
+}
+.usability_h {
+	 position: absolute;
+        top: 22%;
+        left: 50%;
+        margin-right: -50%;
+}
+.development_h {
+	position: absolute;
+        top: 40%;
+        left: 70%;
+        margin-right: -50%;
+}
